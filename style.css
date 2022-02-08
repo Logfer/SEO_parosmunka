@@ -5,24 +5,34 @@ body{
 }
 #tartalom{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
     border: 2px solid black;
     border-collapse: collapse;
     border-radius: 4px;
     width: 750px;
+    background-color: rgba(150, 150, 150, 0.6);
 }
 #tartalom th, td{
     border: 1px solid black;
     padding: 3px;
     border-collapse: collapse;
 }
+#tartalom caption{
+    font-size: 30px;
+}
 
+h1{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
 
 
 nav{
-    background-color: rgba(100, 100, 100, 0.3) ;
+    margin: 5px;
+    background-color: rgba(100, 100, 100, 0.6) ;
     color: white;
     border: 2px solid blue;
     border-radius: 5px;
@@ -46,4 +56,12 @@ nav a{
 #utolso{
     border-left: 1px solid blue;
     border-collapse: collapse;
+}
+
+.video{
+    padding: 0px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
