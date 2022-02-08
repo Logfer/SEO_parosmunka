@@ -28,7 +28,12 @@ h1{
     padding: 0px;
     margin: 0px;
 }
-
+h2{
+    color: white;
+}
+p{
+    color:white;
+}
 
 nav{
     margin: 5px;
