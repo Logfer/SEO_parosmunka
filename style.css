@@ -1,3 +1,8 @@
+body{
+    background-image: url(képek/Hatter.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
 #tartalom{
     text-align: center;
     margin-top: 50px;
