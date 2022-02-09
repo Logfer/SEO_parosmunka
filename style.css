@@ -70,3 +70,9 @@ nav a{
     margin-right: auto;
     text-align: center;
 }
+.sotetebb_betu{
+    color: darkred;
+}
+.vilagosabb_betu{
+    color: turquoise;
+}
